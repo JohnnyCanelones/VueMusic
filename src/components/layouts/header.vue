@@ -13,7 +13,7 @@
           
           .navbar-end.navbar-menu.bg-blue(id="navbarBasicExample")
             .navbar-item
-              router-link.has-text-white(to="/") Buscar
+              router-link.has-text-white(to="/VueMusic") Buscar
             .navbar-item
               router-link.has-text-white(to="/about") Nosotros
     .hero-body
