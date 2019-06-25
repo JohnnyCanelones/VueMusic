@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # platzimusic
 
 > A Vue.js project
@@ -16,3 +17,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# VueMusic
+Proyecto para el curso Profesional Vue.js de Platzi
+>>>>>>> 75918021dfcfcd0f2ad54a3e236bcd96648fb7bb
